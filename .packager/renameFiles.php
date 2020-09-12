@@ -1,5 +1,9 @@
 <?php
 
+/**
+ * When this skeleton gets installed we'll rename local files to fit the package.
+ */
+
 // Available placeholders: :uc:vendor, :uc:package, :lc:vendor, :lc:package
 return [
     'src/MyPackage.php' => 'src/:uc:package.php',
